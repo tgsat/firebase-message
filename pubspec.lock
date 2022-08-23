@@ -93,7 +93,7 @@ packages:
     source: hosted
     version: "0.16.2"
   cupertino_icons:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: cupertino_icons
       url: "https://pub.dartlang.org"
@@ -209,6 +209,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.1.2+1"
+  flutter_svg:
+    dependency: "direct dev"
+    description:
+      name: flutter_svg
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.3"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -324,6 +331,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
+  path_drawing:
+    dependency: transitive
+    description:
+      name: path_drawing
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.1"
+  path_parsing:
+    dependency: transitive
+    description:
+      name: path_parsing
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.1"
   path_provider:
     dependency: transitive
     description:
@@ -539,6 +560,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.4.8"
+  touchable_opacity:
+    dependency: "direct dev"
+    description:
+      name: touchable_opacity
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.0"
   typed_data:
     dependency: transitive
     description:
@@ -625,4 +653,4 @@ packages:
     version: "5.3.1"
 sdks:
   dart: ">=2.16.0 <3.0.0"
-  flutter: ">=1.22.0"
+  flutter: ">=2.4.0-0.0.pre"

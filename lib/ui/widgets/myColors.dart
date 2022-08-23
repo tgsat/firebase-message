@@ -1,0 +1,48 @@
+import 'package:flutter/material.dart';
+
+class MyColors {
+  MyColors._();
+  static const Color primary = Colors.white;
+  static const Color secondary = Colors.black;
+  static const Color scaffoldBackground = Color(0xFFF8F8F8);
+  static const Color disabledColor = Color(0xFFBDBDBD);
+  static const Color inputBorder = Color(0xFFE0E0E0);
+  static const Color headlineText = Color(0xFF393939);
+  static const Color textSemiDark = Color(0xFF7C7C7C);
+  static const Color textDark = Color(0xFF4F4F4F);
+  static const Color disableButton = Color(0xFFADADAD);
+  static const Color label = Color(0xFF545454);
+  static const Color categoryText = Color(0xFF5E5E5E);
+  static const Color categoryBorder = Color(0xFF868686);
+  static const Color labelDark = Color(0xFF212121);
+  static const Color article = Color(0xFF424242);
+  static const Color dividerSemiWhite = Color(0xFFD1D1D1);
+  static const Color bottomNavigation = Color(0xFF1F1F1F);
+  static const Color redBanner = Color(0xFFF4323D);
+  static const Color indicator = Color(0xFF434343);
+  static const Color dividerArticle = Color(0xFFDADADA);
+  static const Color menuItemIconColor = Color(0xFF555555);
+  static const Color menuItemTextColor = Color(0xFF2A2C2F);
+  static const Color headlineContributorColor = Color(0xFFF53340);
+  static const Color darkTextColor = Color(0xFF1C1C1C);
+  static const Color greyDividerColor = Color(0xFFC4C4C4);
+  static const Color greyTextColor = Color(0xFF676767);
+  static const Color lightGreyTextColor = Color(0xFF939393);
+  static const Color unselectedLabel = Color(0xFF626262);
+  static const Color borderTab = Color(0xFFB6B6B6);
+  static const Color blackText = Color(0xFF222222);
+  static const Color greyText = Color(0xFF757575);
+  static const Color greyLink = Color(0xFF9E9E9E);
+  static const Color darkGreyDividerColor = Color(0xFFA7A7A7);
+  static const Color darkGreyTextColor = Color(0xFF787878);
+  static const Color blackDividerColor = Color(0xFF6D6D6D);
+  static const Color dividerNotification = Color(0xFFE0E0E0);
+  static const Color greyBackground = Color(0xFFD7D7D7);
+  static const Color greyDrawerTextColor = Color(0xFF848484);
+  static const Color semiGrey = Color(0xFFF5F5F5);
+  static const Color dottedBorder = Color(0xFFC4C4C4);
+  static const Color backgroundInfo = Color(0xFFF3F3F3);
+  static const Color unselectedMenu = Color(0xFF6B6B6B);
+  static const Color redValidationColor = Color(0xFFDF1642);
+  static const Color greyContainerBackground = Color(0xFFF0F0F0);
+}
