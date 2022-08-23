@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253116178361",
+    "project_id": "i-message-28241",
+    "storage_bucket": "i-message-28241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253116178361:android:ac31ef9c1a85f0e85d2068",
+        "android_client_info": {
+          "package_name": "com.example.for_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253116178361-ffbpsnrk1prfgqccavrv8jdt20326vku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_RtdBoCx0iGYKQFh-xLSOKBY9pVm4hKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253116178361-ffbpsnrk1prfgqccavrv8jdt20326vku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
