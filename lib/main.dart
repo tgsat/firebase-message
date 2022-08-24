@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProxyProvider<MessagesProvider, ContactsProvider>(
           create: (_) => ContactsProvider(),
           update: (_, msgMgr, contactsProvider) =>
-              contactsProvider..update(msgMgr),
+              contactsProvider!..update(msgMgr),
         ),
         ChangeNotifierProvider(
           create: (_) => AuthProvider(),
